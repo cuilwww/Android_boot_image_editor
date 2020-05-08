@@ -8,8 +8,11 @@ This tool focuses on editing Android boot.img(also recovery.img, and vbmeta.img)
 ## 1. Prerequisite
 #### 1.1 Host OS requirement:
 
-Linux or Mac.
-Also need python 2.x and jdk 8.
+Linux or Mac development env.
+
+ - python 2.x
+ - jdk 8
+ - zlib1g-dev
 
 #### 1.2 Target Android requirement:
 
