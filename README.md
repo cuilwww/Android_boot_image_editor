@@ -20,6 +20,7 @@ Linux or Mac development env.
 
 Supported images:
  - boot.img
+ - vendor\_boot.img
  - recovery.img (also recovery-two-step.img)
  - vbmeta.img (also vbmeta\_system.img, vbmeta\_vendor.img etc.)
  - dtbo.img (only 'unpack' is supported)
@@ -102,6 +103,7 @@ https://android.googlesource.com/platform/system/extras
 
 cpio / fs\_config
 https://android.googlesource.com/platform/system/core
+https://www.kernel.org/doc/Documentation/early-userspace/buffer-format.txt
 
 AVB
 https://android.googlesource.com/platform/external/avb/
